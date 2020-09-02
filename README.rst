@@ -30,7 +30,7 @@ Code status
 Download
 --------
 
-You can get the newest release at https://www.phpmyadmin.net/.
+You can get the new release at https://www.phpmyadmin.net/.
 
 If you prefer to follow the git repository, the following branch and tag names may be of interest:
 
